@@ -2,7 +2,7 @@
 Tutorial Remember Git
 
 # Start Git Command
-#!!!Don't forget Create Repository!!!
+!!!Don't forget Create Repository!!!
  
 1. cd folder or cmd folder to up git
 2. git int 
