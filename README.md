@@ -1,7 +1,7 @@
 # Git_Basic
 Tutorial Remember Git
 
-#Start Git Command
+# Start Git Command
 #!!!Don't forget Create Repository!!!
  
 1. cd folder or cmd folder to up git
