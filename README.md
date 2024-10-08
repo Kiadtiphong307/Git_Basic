@@ -8,6 +8,6 @@ Tutorial Remember Git
 2. git int 
 3. git add . 
 4. git commit -m "test up git"
-5. git git checkout -b main
+5. git checkout -b main
 6. git remote add origin https://github.com/USERNAME/Project.git
 7. git push -u origin main --force
